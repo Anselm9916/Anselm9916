@@ -1,7 +1,5 @@
-<img alt="" src="js.gif">
+<img alt="" src="Wil.anselm@gmail.com.png">
 
-# Hi 👋, I'm Anselm Wilmont
-## A passionate frontend developer from the Netherlands
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif">
 
 
