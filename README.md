@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Anselm Wilmont
 ## A passionate frontend developer from the Netherlands
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif">
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif">
 
 
 ### Currently learning:
