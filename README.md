@@ -4,7 +4,6 @@
 ## A passionate frontend developer from the Netherlands
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif">
 
-- 🌱 I’m currently learning **HTML, CSS, JS, PHP**
 
 ### Currently learning:
 <p align="left">
