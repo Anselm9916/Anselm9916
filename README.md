@@ -21,7 +21,7 @@
 </p>
 
 <p align="left">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anselm9916&" alt="anselm9916" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anselm9916&theme=transparent&fire=00FFFF&ring=007F7F&currStreakNum=00FFFF&currStreakLabel=3F3F3F&sideLabels=3F3F3F&dates=323232&sideNums=00FFFF&border=3F3F3F&stroke=323232" alt="GitHub Streak" />
 </p>
 
 ### Profile Views:
